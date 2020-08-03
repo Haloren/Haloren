@@ -3,29 +3,39 @@
 
 <h2> Connect with me on:
 
-<a href= "https://dev.to/haloren">
+<a href= "https://dev.to/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/LinkedInLogo.png"
         width="30"
         height="30"
-    />
+    />  
 </a>
 
-<a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">
+<a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/DEVLogo.png" 
         width="31"
         height="31"
-    />
+    />  
 </a>
 </h2>
 
-<a href="https://github.com/Haloren/github-readme-stats">
-<img 
-    align="center" 
-    src="https://github-readme-stats.Haloren1.vercel.app/api/top-langs/?username=Haloren&layout=compact&theme=radical" 
-/>
-</a>
+<p>
+    <img 
+        align="center"
+        alt="Haloren's GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Haloren&show_icons=true"
+    />
+</p>
+
+<p>
+    <a href="https://github.com/Haloren/github-readme-stats">
+    <img 
+        align="center" 
+        src="https://github-readme-stats.Haloren.vercel.app/api/top-langs/?username=Haloren&layout=compact&theme=radical" 
+    />
+    </a>
+</p>
 
 <h3>Website is under currently under construction. Link coming soon.
 </h3>

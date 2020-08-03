@@ -1,7 +1,7 @@
 <h1> Hello, my name is Kyle R McKenna. </h1>
 <h3> Nice to virtually meet you.</h3>
 
-<h2> Connect with me on:</h2>
+<h2> Connect with me on:
 
 <a href= "https://dev.to/haloren">
     <img 
@@ -18,6 +18,7 @@
         height="20"
     />
 </a>
+</h2>
 
 <p>
 <img

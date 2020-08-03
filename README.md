@@ -1,5 +1,5 @@
-<h1> Hello, my name is Kyle R McKenna. </h1>
-<h3 align="center" background="blue"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h3>
+<h1> Hello, my name is Kyle R McKenna. ♌️ </h1>
+<h3 align="center"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h3>
 
 <h2 align="center"> Connect with me on: 
 <br>
@@ -37,9 +37,9 @@
     </a>
 </p>
 
-<h3 align="center">Website is under currently under construction. Link coming soon.
+<h3 align="center"> 🚧 Website is under currently under construction. Link coming soon. 🚧
 </h3>
 
 <h2 align="center">
-⬇️ If you'd like, you can check out my repos below ⬇️  
+⬇️🖒 If you'd like, you can check out my repos below 🖒⬇️  
 </p>

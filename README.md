@@ -21,7 +21,6 @@
 </h2>
 
 <p align="center">
-    <a href="https://github.com/Haloren/github-readme-stats">
     <img 
         align="center"
         alt="Haloren's GitHub Stats"
@@ -30,7 +29,6 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Haloren/github-readme-stats">
     <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haloren&show_icons=true" 

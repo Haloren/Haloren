@@ -31,7 +31,7 @@
 <a href="https://github.com/Haloren/github-readme-stats">
 <img 
     align="center" 
-    src="https://github-readme-stats.Haloren.vercel.app/api/top-langs/?username=Haloren&layout=compact&theme=radical" 
+    src="https://github-readme-stats.Haloren1.vercel.app/api/top-langs/?username=Haloren&layout=compact&theme=radical" 
 />
 </a>
 

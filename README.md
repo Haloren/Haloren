@@ -14,13 +14,13 @@
 <a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/DEVLogo.png" 
-        width="31"
-        height="31"
+        width="30"
+        height="30"
     />  
 </a>
 </h2>
 
-<p>
+<p align="center">
     <img 
         align="center"
         alt="Haloren's GitHub Stats"
@@ -28,7 +28,7 @@
     />
 </p>
 
-<p>
+<p align="center">
     <a href="https://github.com/Haloren/github-readme-stats">
     <img 
         align="center" 

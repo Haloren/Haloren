@@ -1,9 +1,8 @@
 <h1> Hello, my name is Kyle R McKenna. </h1>
-<h3 align="center"> Nice to virtually meet you. 👨‍💻</h3>
+<h3 align="center"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h3>
 
-<h2 align="center"> Connect with me on: <h2>
-
-<h2 align="center">
+<h2 align="center"> Connect with me on: 
+<br>
 <a href= "https://dev.to/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/LinkedInLogo.png"

@@ -4,12 +4,6 @@
 <h1> Hello, my name is Kyle R McKenna. </h1>
 <h3 align="center"> Nice to virtually meet you.</h3>
 
-<img 
-    align="left"
-    alt="Haloren's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Haloren&show_icons=true&hide_border=true"
-/>
-
 </br>
 <h2> Connect with me on:</h2>
 

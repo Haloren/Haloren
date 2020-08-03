@@ -1,5 +1,9 @@
+<hr>
+
 <h1 align="center"> Hello, my name is Kyle R McKenna </h1>
 <h2 align="center"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h2>
+
+<hr>
 
 <h2 align="center"> Connect with me on: 
 <br>

@@ -26,14 +26,14 @@
     alt="Haloren's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=Haloren&show_icons=true&hide_border=true"
 />
-<p>
+</p>
 
-<p align="center">
+<a href="https://github.com/Haloren/github-readme-stats">
 <img 
     align="center" 
     src="https://github-readme-stats.Haloren.vercel.app/api/top-langs/?username=Haloren&layout=compact&theme=radical" 
 />
-<p>
+</a>
 
 <h3 color:"purple">Website is under currently under construction. Link coming soon.
 </h3>

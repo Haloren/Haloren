@@ -21,6 +21,7 @@
 </h2>
 
 <p align="center">
+    <a href="https://github.com/Haloren/github-readme-stats">
     <img 
         align="center"
         alt="Haloren's GitHub Stats"

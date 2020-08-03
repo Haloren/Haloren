@@ -20,6 +20,9 @@
 </a>
 </h2>
 
+<h3 align="center"> 🚧 Website is under currently under construction. Link coming soon. 🚧
+</h3>
+
 <p align="center">
     <img 
         align="center"
@@ -35,9 +38,6 @@
     />
     </a>
 </p>
-
-<h3 align="center"> 🚧 Website is under currently under construction. Link coming soon. 🚧
-</h3>
 
 <h2 align="center">
 ⬇️🖒 If you'd like, you can check out my repos below 🖒⬇️  

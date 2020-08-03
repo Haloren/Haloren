@@ -5,28 +5,20 @@
 
 <a href= "https://dev.to/haloren">
     <img 
-        src="images/DEVLogo.png" 
-        width="40"
-        height="40"
+        src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/LinkedInLogo.png"
+        width="30"
+        height="30"
     />
 </a>
 
 <a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">
     <img 
-        src="images/LinkedInLogo.png" 
-        width="40"
-        height="40"
+        src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/DEVLogo.png" 
+        width="31"
+        height="31"
     />
 </a>
 </h2>
-
-<p align="center">
-<img
-    align="center"
-    alt="Haloren's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Haloren&show_icons=true&hide_border=true"
-/>
-</p>
 
 <a href="https://github.com/Haloren/github-readme-stats">
 <img 
@@ -35,7 +27,7 @@
 />
 </a>
 
-<h3 color:"purple">Website is under currently under construction. Link coming soon.
+<h3>Website is under currently under construction. Link coming soon.
 </h3>
 
 <p>

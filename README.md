@@ -4,11 +4,19 @@
 <h2> Connect with me on:</h2>
 
 <a href= "https://dev.to/haloren">
-<img src="images/dev-community.png" />
+    <img 
+        src="images/DEVLogo.png" 
+        width=auto
+        height=auto
+    />
 </a>
 
 <a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">
-<img src="images/LinkedIn-community.png"/>
+    <img 
+        src="images/LinkedInLogo.png" 
+        width="20"
+        height="20"
+    />
 </a>
 
 <p>
@@ -19,8 +27,8 @@
 />
 <p>
 
-<p>Website is under currently under construction. Link coming soon.
-</p>
+<h3 color:"purple">Website is under currently under construction. Link coming soon.
+</h3>
 
 <p>
 ⬇️ If you'd like, you can check out my repos below ⬇️  

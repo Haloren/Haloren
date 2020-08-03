@@ -23,6 +23,8 @@
 <h3 align="center"> 🚧 Website is under currently under construction. Link coming soon. 🚧
 </h3>
 
+<hr>
+
 <p align="center">
     <img 
         align="center"
@@ -38,6 +40,8 @@
     />
     </a>
 </p>
+
+<hr>
 
 <h2 align="center">
 ⬇️🖒 If you'd like, you can check out my repos below 🖒⬇️  

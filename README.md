@@ -1,4 +1,4 @@
-<h1 align="center"> ♌️ Hello, my name is Kyle R McKenna ♌️ </h1>
+<h1 align="center"> Hello, my name is Kyle R McKenna </h1>
 <h2 align="center"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h2>
 
 <h2 align="center"> Connect with me on: 

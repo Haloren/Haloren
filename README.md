@@ -5,7 +5,7 @@
 
 <h2 align="center"> Connect with me on: 
 <br>
-<a href= "https://dev.to/haloren">  
+<a href=  "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/LinkedInLogo.png"
         width="75"
@@ -13,7 +13,7 @@
     />  
 </a>
 
-<a href= "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
+<a href= "https://dev.to/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/DEVLogo.png" 
         width="75"

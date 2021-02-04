@@ -23,7 +23,7 @@
 
 <a href= "https://codepen.io/haloren">  
     <img 
-        src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/CodePenLogo.jpg" 
+        src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/CodePenLogo.png" 
         width="75"
         height="75"
     />  

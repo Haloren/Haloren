@@ -8,6 +8,7 @@
 <a href=  "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/LinkedInLogo.png"
+        alt="LinkedIn"
         width="75"
         height="75"
     />  
@@ -16,6 +17,7 @@
 <a href= "https://dev.to/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/DEVLogo.png" 
+        alt="Dev"
         width="75"
         height="75"
     />  
@@ -24,6 +26,7 @@
 <a href= "https://codepen.io/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/CodePenLogo.png" 
+        alt="CodePen"
         width="75"
         height="75"
     />  

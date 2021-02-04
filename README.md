@@ -20,6 +20,14 @@
         height="75"
     />  
 </a>
+
+<a href= "https://codepen.io/haloren">  
+    <img 
+        src="https://github.com/Haloren/Haloren/blob/a66670d709aea1b7395573ee146976aa6e2f8e17/images/CodePenLogo.jpg" 
+        width="75"
+        height="75"
+    />  
+</a>
 </h2>
 
 <h3 align="center"> 🚧 Website is currently under construction. Link coming soon. 🚧
@@ -46,5 +54,5 @@
 <hr>
 
 <h2 align="center">
-⬇️🖒 If you'd like, you can check out my repos below 🖒⬇️  
+⬇️If you'd like, you can check out my repos below⬇️  
 </p>

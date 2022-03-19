@@ -33,9 +33,6 @@
 </a>
 </h2>
 
-<h3 align="center"> 🚧 Website is currently under construction. Link coming soon. 🚧
-</h3>
-
 <hr>
 
 <p align="center">

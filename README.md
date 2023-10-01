@@ -3,7 +3,7 @@
 <h1 align="center"> Hello, my name is Kyle R McKenna </h1>
 <h2 align="center"> 👨‍💻 Nice to virtually meet you. 👨‍💻</h2>
 
-<h2 align="center"> Connect with me on: 
+<h2 align="center"> 
 <br>
 <a href=  "https://www.linkedin.com/in/kyle-mckenna-98269a44/">  
     <img 

@@ -13,8 +13,8 @@
         height="75"
     />  
 </a>
-
-<!-- <a href= "https://dev.to/haloren">  
+<!--
+<a href= "https://dev.to/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/master/images/DEVLogo.png" 
         alt="Dev"
@@ -22,7 +22,7 @@
         height="75"
     />  
 </a>
- -->
+-->
 <a href= "https://codepen.io/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/master/images/CodePenLogo.png" 
@@ -34,7 +34,7 @@
 </h2>
 
 <hr>
-
+<!-- 
 <p align="center">
     <img 
         align="center"
@@ -56,3 +56,4 @@
 <h2 align="center">
 ⬇️If you'd like, you can check out my repos below⬇️  
 </p>
+-->

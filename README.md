@@ -23,6 +23,7 @@
     />  
 </a>
 -->
+<!-- 
 <a href= "https://codepen.io/haloren">  
     <img 
         src="https://github.com/Haloren/Haloren/blob/master/images/CodePenLogo.png" 
@@ -32,7 +33,7 @@
     />  
 </a>
 </h2>
-
+-->
 <hr>
 <!-- 
 <p align="center">
